@@ -1,13 +1,6 @@
-*{
-  font-family: Roboto;
-}
 body{
   background-color: red;
 }
-hr{
-  color:blue;
-}
-
 h1{
   font-size: 20px;
 }
